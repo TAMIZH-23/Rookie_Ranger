@@ -1,1 +1,5 @@
-# Rookie_Ranger
+# MOBILITY CANE
+The use of Arduino technology in the construction of a Mobility cane that can be used by people suffering from blindness and help them to overcome in the drawbacks of this condition. In this project, we used the power of Arduino along with sensors to construct a simple Mobility cane that can detect obstacles (solid bodies), water, and light, and use a sound alarm (buzzer) as outputs to warn the users.
+Ultrasonic sensor can detect forward obstacles at around 1-meter-high above ground level. We suggest a solution to design obstacle detection unit with multiple ultrasonic sensors in which can sense obstacles in different heights and angles.
+TCS230 sense the light of traffic signal and gives an alert to help people suffering from Nyctalopia (Night Blindness).
+In addition, ISD1820 Voice recorder module gives the recorded audio when it senses the traffic signal and it alerts the users. This cane can improve the quality of the visually impaired people’s lives, save efforts and time.
